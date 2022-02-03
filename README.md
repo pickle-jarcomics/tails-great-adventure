@@ -1,5 +1,4 @@
- 
-
+Please enjoy this wonderful maze game!  
 
 > Open this page at [https://tailsinteractive.github.io/tails-great-adventure/](https://tailsinteractive.github.io/tails-great-adventure/)
 
