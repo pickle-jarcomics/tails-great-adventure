@@ -693,5 +693,6 @@ false
 tails.setPosition(66, 28)
 controller.moveSprite(tails)
 scene.cameraFollowSprite(tails)
+game.showLongText("Welcome to \"Tails' Great Adventure: GitHub edition\"!", DialogLayout.Full)
 game.showLongText("Level 1: Mellow Medows", DialogLayout.Full)
 info.startCountdown(10)
